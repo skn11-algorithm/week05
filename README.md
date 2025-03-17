@@ -1,9 +1,9 @@
 # Week05 문제
 👉🏻 [자료구조](https://www.acmicpc.net/workbook/view/9000) <br/>
 - 필수 문제 > 재귀
-  - [실버2](https://www.acmicpc.net/problem/2630) 2630번 색종이 만들기 (채은)
-  - [골드5](https://www.acmicpc.net/problem/2447) 2447번 별 찍기 - 10 (유빈)
-  - [골드5](https://www.acmicpc.net/problem/2447) 1914번 하노이 탑 (성일)
+  - [실버2](https://www.acmicpc.net/problem/2630) 2630번 색종이 만들기
+  - [골드5](https://www.acmicpc.net/problem/2447) 2447번 별 찍기 - 10
+  - [골드5](https://www.acmicpc.net/problem/2447) 1914번 하노이 탑
   - [골드5](https://www.acmicpc.net/problem/11729) 11729번 하노이 탑 이동 순서
 - 필수 문제 > 정렬
   - [실버3](https://www.acmicpc.net/problem/1431) 1431번 시리얼 번호
