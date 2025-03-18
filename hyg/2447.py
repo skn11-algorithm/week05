@@ -18,17 +18,17 @@ def divide_and_conquer(x,y,n):
         arr[x][y] = '*'
         return
         
-    print_star(x,y,n//3)
-    print_star(x+n//3,y,n//3)
-    print_star(x+(n//3)*2,y,n//3)
+    divide_and_conquer(x,y,n//3)
+    divide_and_conquer(x+n//3,y,n//3)
+    divide_and_conquer(x+(n//3)*2,y,n//3)
     
-    print_star(x,y+n//3,n//3)
-    # print_star(x+n//3,y+n//3,n//3)
-    print_star(x+(n//3)*2,y+n//3,n//3)
+    divide_and_conquer(x,y+n//3,n//3)
+    # divide_and_conquer(x+n//3,y+n//3,n//3)
+    divide_and_conquer(x+(n//3)*2,y+n//3,n//3)
     
-    print_star(x,y+(n//3)*2,n//3)
-    print_star(x+n//3,y+(n//3)*2,n//3)
-    print_star(x+(n//3)*2,y+(n//3)*2,n//3)
+    divide_and_conquer(x,y+(n//3)*2,n//3)
+    divide_and_conquer(x+n//3,y+(n//3)*2,n//3)
+    divide_and_conquer(x+(n//3)*2,y+(n//3)*2,n//3)
     
 
 if __name__ == '__main__':
