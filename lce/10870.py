@@ -1,6 +1,7 @@
-def fibo ():
-    if n <= 1:
-        return n
-    return fibo(n-1) + fibo(n+1)
+n = int(input())
+fib = [0, 1]
 
-n = input(int())
+for i in range(2, n + 1):
+    fib.append(fib[i - 1] + fib[i - 2])
+
+print(fib[n])
