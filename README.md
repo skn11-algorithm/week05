@@ -4,7 +4,7 @@
 - 필수 문제 > 재귀
   - [실버2](https://www.acmicpc.net/problem/2630) 2630번 색종이 만들기 (성일)
   - [골드5](https://www.acmicpc.net/problem/2447) 2447번 별 찍기 - 10 (정현)
-  - [골드5](https://www.acmicpc.net/problem/2447) 1914번 하노이 탑 (민정)
+  - [골드5](https://www.acmicpc.net/problem/1914) 1914번 하노이 탑 (민정)
 - 필수 문제 > 정렬
   - [실버3](https://www.acmicpc.net/problem/1431) 1431번 시리얼 번호 (유빈)
   - [실버2](https://www.acmicpc.net/problem/18870) 18870번 좌표 압축 (유경)
